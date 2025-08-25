@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+PROJECT.cppproj
+PROJECT.componentinfo.xml
+
+Debug/
+Release/
