@@ -9,13 +9,13 @@ ATmega128 MCU 기반의 임베디드 환경에서 **정전식 지문인식 모�
 
 ## 결과물
 - **완제품 사진**
-  - ![product](product.png)  
+  - ![product](img/product.png)  
 
 - **PCB Schematic**
-  - ![pcbSchematic](pcbSchematic.png)    
+  - ![pcbSchematic](img/pcbSchematic.png)    
 
 - **PCB 단면도**
-  - ![pcb](pcb.png)  
+  - ![pcb](img/pcb.png)  
 
 ---
 
